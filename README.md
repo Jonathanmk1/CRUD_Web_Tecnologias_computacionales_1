@@ -60,6 +60,7 @@ Usuario: root
 Contraseña: pass
 
 # ✏️ Créditos
-Este proyecto fue creado, organizado, mantenible y presentable por Jonathan Sanchez, Isai Rojas y Sebastian Osornio.
+Este proyecto fue creado, organizado, mantenible y presentable por @https://github.com/Jonathanmk1, @https://github.com/Seb-OA, https://github.com/Isai777.
+Jonathan Sanchez, Isai Rojas y Sebastian Osornio.
 
  
