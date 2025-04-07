@@ -15,11 +15,10 @@ Este crud tiene como proposito registrar, buscar, actualizar y eliminar alumnos,
 ├── login/                      → Todo lo relacionado al sistema de login
 │   ├── index.php               → Vista del login (en PHP)
 │   ├── validar.php             → Validación de usuario/contraseña
-│   └── limpiarb.php            → Probablemente cerrar sesión o limpiar datos
+│   └── limpiarb.php            → cerrar sesión o limpiar datos
 │
-├── docker/                     → Configuración para ejecutar con Docker
-│   ├── Dockerfile
-│   └── Docker-compose.yaml
+├── Dockerfile
+│── Docker-compose.yaml
 │
 ├── .git/                       → Carpeta de Git
 └── README.md                   → Descripción del proyecto
